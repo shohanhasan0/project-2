@@ -1,0 +1,13 @@
+body{background-color: cornsilk;}
+h1{color: rgb(0, 0, 0);}
+h1{text-align: center;}
+h2{text-align: center;}
+.vv{text-align: right;}
+img{
+    height: 250px;
+    width: 250px;
+}
+.tt{text-align: left;}
+.nn{text-align: right;}
+.bb{text-align: left;}
+h3{text-align: right;}
